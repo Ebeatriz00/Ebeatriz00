@@ -45,7 +45,6 @@ Me encanta construir soluciones que <strong>ahorren tiempo</strong>, <strong>res
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebeatriz00&show_icons=true&locale=en" alt="ebeatriz00" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebeatriz00&" alt="ebeatriz00" /></p>
 
 ---
