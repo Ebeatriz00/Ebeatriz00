@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Erika</h1>
 
 <h3 align="center">
-Desarrolladora backend con foco en automatización de procesos, scraping avanzado y sistemas empresariales.
+Analista programadora con foco en automatización de procesos, scraping avanzado y sistemas empresariales.
 Me encanta construir soluciones que <strong>ahorren tiempo</strong>, <strong>resuelvan dolores reales</strong> y que sean <strong>mantenibles y robustas</strong>.
 </h3>
 
