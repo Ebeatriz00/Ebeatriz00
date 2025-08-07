@@ -49,4 +49,4 @@ Me encanta construir soluciones que <strong>ahorren tiempo</strong>, <strong>res
 
 ---
 
-<h4 align="center">"Code is not just syntax — it's how we automatizamos sueños." 🧠⚙️</h4>
+<h4 align="center">"El código no es sólo sintaxis: es cómo automatizamos los sueños." 🧠⚙️</h4>
