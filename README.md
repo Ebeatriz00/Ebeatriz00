@@ -20,7 +20,7 @@ Me encanta construir soluciones que <strong>ahorren tiempo</strong>, <strong>res
 
 ### 🚀 Proyectos destacados
 
-- 🔍 [`scraper-farmacias`](https://github.com/Ebeatriz00/Scrapper_bot) — Scraper para monitorear productos y precios de farmacias. Hecho con 🐍 **Python + Playwright**
+- 🔍 [`scraper-farmacias-demo`](https://github.com/Ebeatriz00/Scrapper_demo/) — Scraper para monitorear productos y precios de farmacias. Hecho con 🐍 **Python + Playwright**
 - 🔍 [`paises`](https://github.com/Ebeatriz00/Paises) — Esto es un mini proyecto de busqueda de paises con angular v17. Donde se implemento lazylod, apis, rxjs y mas.
 
 > ⚠️ Algunos proyectos son privados por temas de seguridad y confidencialidad, pero si estás interesad@ puedo mostrar una demo o explicarte cómo se adapta a tu empresa. 😉
