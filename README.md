@@ -19,12 +19,13 @@ Me encanta construir soluciones que <strong>ahorren tiempo</strong>, <strong>res
 ---
 
 ### 🚀 Proyectos destacados
-- 💼 [`demo-gluemark`](https://github.com/Ebeatriz00/demo_gluemark) – ERP **modular y escalable** para la industria de **etiquetas adhesivas**, con **arquitectura limpia**, soporte **multiempresa** e integraciones flexibles. Backend desarrollado en **C# .NET 8** como proyecto de portafolio, actualmente en construcción.
+- 💼 [`demo-gluemark`](https://github.com/Ebeatriz00/demo_gluemark) – ERP **modular y escalable** para la industria de **etiquetas adhesivas**, con **arquitectura limpia**, soporte **multiempresa** e integraciones flexibles. Backend en **C# .NET 8**, desarrollado como proyecto de portafolio. *(En construcción)*
 
-- 🔍 [`scraper-farmacias-demo`](https://github.com/Ebeatriz00/Scrapper_demo/) — Scraper para monitorear productos y precios de farmacias. Hecho con 🐍 **Python + Playwright**
-- 🔍 [`paises`](https://github.com/Ebeatriz00/Paises) — Esto es un mini proyecto de busqueda de paises con angular v17. Donde se implemento lazylod, apis, rxjs y mas.
+- 🔍 [`scraper-farmacias-demo`](https://github.com/Ebeatriz00/scraper-farmacias-demo) – Scraper avanzado para **monitorear precios y stock** en farmacias, con detección de CAPTCHAs y rotación de contexto. Hecho con **Python + Playwright** y salida en Excel/JSON.
 
-> ⚠️ Algunos proyectos son privados por temas de seguridad y confidencialidad. 😉
+- 🌎 [`paises`](https://github.com/Ebeatriz00/paises) – Mini proyecto de búsqueda de países con **Angular v17**, implementando **lazy load**, consumo de APIs y manejo de estado con **RxJS**.
+  
+> ⚠️ Algunos proyectos son privados por temas de seguridad y confidencialidad.
 
 ---
 
