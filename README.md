@@ -19,6 +19,7 @@ Me encanta construir soluciones que <strong>ahorren tiempo</strong>, <strong>res
 ---
 
 ### 🚀 Proyectos destacados
+- 💼 [`demo-gluemark`](https://github.com/Ebeatriz00/demo_gluemark) – ERP **modular y escalable** para la industria de **etiquetas adhesivas**, con **arquitectura limpia**, soporte **multiempresa** e integraciones flexibles. Backend desarrollado en **C# .NET 8** como proyecto de portafolio, actualmente en construcción.
 
 - 🔍 [`scraper-farmacias-demo`](https://github.com/Ebeatriz00/Scrapper_demo/) — Scraper para monitorear productos y precios de farmacias. Hecho con 🐍 **Python + Playwright**
 - 🔍 [`paises`](https://github.com/Ebeatriz00/Paises) — Esto es un mini proyecto de busqueda de paises con angular v17. Donde se implemento lazylod, apis, rxjs y mas.
